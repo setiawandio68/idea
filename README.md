@@ -1,0 +1,2 @@
+# idea
+aplikasi idea management
